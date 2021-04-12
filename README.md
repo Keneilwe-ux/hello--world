@@ -1,6 +1,11 @@
-# hello--world
+## hello--world
 
-hi there, a'm a web developer who creates web sites.
-please look on to my resume for more information.
+__Hi there__
 
-thank you for visiting.have a nice day:).
+*A web developer roles:*
+
+* Web Application Developer
+* Software Engineer
+* Software Developer
+
+Thank you for visiting.have a nice day:).
